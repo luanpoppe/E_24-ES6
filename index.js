@@ -1,0 +1,1 @@
+function Funcionario(nome, idade,)
